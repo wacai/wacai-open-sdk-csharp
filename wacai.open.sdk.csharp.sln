@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.SDK.CSharp", "open-sdk-csharp\Open.SDK.CSharp.csproj", "{32508943-496D-45E5-81ED-375C1C5EE8C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.SDK.CSharp.App", "open-sdk-csharp-app\Open.SDK.CSharp.App.csproj", "{F9B2AE2B-E65C-425B-B2D6-8E43BB723E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32508943-496D-45E5-81ED-375C1C5EE8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32508943-496D-45E5-81ED-375C1C5EE8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32508943-496D-45E5-81ED-375C1C5EE8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32508943-496D-45E5-81ED-375C1C5EE8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B2AE2B-E65C-425B-B2D6-8E43BB723E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B2AE2B-E65C-425B-B2D6-8E43BB723E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B2AE2B-E65C-425B-B2D6-8E43BB723E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B2AE2B-E65C-425B-B2D6-8E43BB723E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
